@@ -1,1 +1,1 @@
-# codesoftTarunchintakunta-Codesoft_Task-3-Calculator
+Codesoft_Task-3-Calculator
